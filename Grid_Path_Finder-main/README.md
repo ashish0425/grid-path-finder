@@ -2,7 +2,7 @@
 
 The Project Aim is to Generate a valid Path for a Given start and End Point in a Grid(of size m X n).
 
-Click here to view the Application :->  https://keshri1610.github.io/Grid_Path_Finder/
+Click here to view the Application :->  https://github.com/ashish0425/grid-path-finder
 
 The Following Algorithms have been Implemented so far
       
